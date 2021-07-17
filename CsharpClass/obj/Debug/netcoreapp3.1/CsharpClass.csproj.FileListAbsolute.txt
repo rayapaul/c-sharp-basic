@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\repos\CsharpClass\bin\Debug\netcoreapp3.1\CsharpClass.exe
+C:\Users\RAYA\source\repos\CsharpClass\bin\Debug\netcoreapp3.1\CsharpClass.deps.json
+C:\Users\RAYA\source\repos\CsharpClass\bin\Debug\netcoreapp3.1\CsharpClass.runtimeconfig.json
+C:\Users\RAYA\source\repos\CsharpClass\bin\Debug\netcoreapp3.1\CsharpClass.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\CsharpClass\bin\Debug\netcoreapp3.1\CsharpClass.dll
+C:\Users\RAYA\source\repos\CsharpClass\bin\Debug\netcoreapp3.1\CsharpClass.pdb
+C:\Users\RAYA\source\repos\CsharpClass\obj\Debug\netcoreapp3.1\CsharpClass.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\repos\CsharpClass\obj\Debug\netcoreapp3.1\CsharpClass.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\CsharpClass\obj\Debug\netcoreapp3.1\CsharpClass.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\CsharpClass\obj\Debug\netcoreapp3.1\CsharpClass.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\CsharpClass\obj\Debug\netcoreapp3.1\CsharpClass.dll
+C:\Users\RAYA\source\repos\CsharpClass\obj\Debug\netcoreapp3.1\CsharpClass.pdb
+C:\Users\RAYA\source\repos\CsharpClass\obj\Debug\netcoreapp3.1\CsharpClass.genruntimeconfig.cache

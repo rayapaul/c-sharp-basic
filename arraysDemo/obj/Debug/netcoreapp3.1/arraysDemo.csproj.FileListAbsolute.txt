@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\repos\arraysDemo\bin\Debug\netcoreapp3.1\arraysDemo.exe
+C:\Users\RAYA\source\repos\arraysDemo\bin\Debug\netcoreapp3.1\arraysDemo.deps.json
+C:\Users\RAYA\source\repos\arraysDemo\bin\Debug\netcoreapp3.1\arraysDemo.runtimeconfig.json
+C:\Users\RAYA\source\repos\arraysDemo\bin\Debug\netcoreapp3.1\arraysDemo.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\arraysDemo\bin\Debug\netcoreapp3.1\arraysDemo.dll
+C:\Users\RAYA\source\repos\arraysDemo\bin\Debug\netcoreapp3.1\arraysDemo.pdb
+C:\Users\RAYA\source\repos\arraysDemo\obj\Debug\netcoreapp3.1\arraysDemo.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\repos\arraysDemo\obj\Debug\netcoreapp3.1\arraysDemo.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\arraysDemo\obj\Debug\netcoreapp3.1\arraysDemo.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\arraysDemo\obj\Debug\netcoreapp3.1\arraysDemo.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\arraysDemo\obj\Debug\netcoreapp3.1\arraysDemo.dll
+C:\Users\RAYA\source\repos\arraysDemo\obj\Debug\netcoreapp3.1\arraysDemo.pdb
+C:\Users\RAYA\source\repos\arraysDemo\obj\Debug\netcoreapp3.1\arraysDemo.genruntimeconfig.cache

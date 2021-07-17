@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\repos\whileLoops\bin\Debug\netcoreapp3.1\whileLoops.exe
+C:\Users\RAYA\source\repos\whileLoops\bin\Debug\netcoreapp3.1\whileLoops.deps.json
+C:\Users\RAYA\source\repos\whileLoops\bin\Debug\netcoreapp3.1\whileLoops.runtimeconfig.json
+C:\Users\RAYA\source\repos\whileLoops\bin\Debug\netcoreapp3.1\whileLoops.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\whileLoops\bin\Debug\netcoreapp3.1\whileLoops.dll
+C:\Users\RAYA\source\repos\whileLoops\bin\Debug\netcoreapp3.1\whileLoops.pdb
+C:\Users\RAYA\source\repos\whileLoops\obj\Debug\netcoreapp3.1\whileLoops.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\whileLoops\obj\Debug\netcoreapp3.1\whileLoops.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\whileLoops\obj\Debug\netcoreapp3.1\whileLoops.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\whileLoops\obj\Debug\netcoreapp3.1\whileLoops.dll
+C:\Users\RAYA\source\repos\whileLoops\obj\Debug\netcoreapp3.1\whileLoops.pdb
+C:\Users\RAYA\source\repos\whileLoops\obj\Debug\netcoreapp3.1\whileLoops.genruntimeconfig.cache
+C:\Users\RAYA\source\repos\whileLoops\obj\Debug\netcoreapp3.1\whileLoops.csproj.AssemblyReference.cache

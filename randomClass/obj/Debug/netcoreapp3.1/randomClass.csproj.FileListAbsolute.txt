@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\repos\randomClass\bin\Debug\netcoreapp3.1\randomClass.exe
+C:\Users\RAYA\source\repos\randomClass\bin\Debug\netcoreapp3.1\randomClass.deps.json
+C:\Users\RAYA\source\repos\randomClass\bin\Debug\netcoreapp3.1\randomClass.runtimeconfig.json
+C:\Users\RAYA\source\repos\randomClass\bin\Debug\netcoreapp3.1\randomClass.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\randomClass\bin\Debug\netcoreapp3.1\randomClass.dll
+C:\Users\RAYA\source\repos\randomClass\bin\Debug\netcoreapp3.1\randomClass.pdb
+C:\Users\RAYA\source\repos\randomClass\obj\Debug\netcoreapp3.1\randomClass.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\repos\randomClass\obj\Debug\netcoreapp3.1\randomClass.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\randomClass\obj\Debug\netcoreapp3.1\randomClass.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\randomClass\obj\Debug\netcoreapp3.1\randomClass.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\randomClass\obj\Debug\netcoreapp3.1\randomClass.dll
+C:\Users\RAYA\source\repos\randomClass\obj\Debug\netcoreapp3.1\randomClass.pdb
+C:\Users\RAYA\source\repos\randomClass\obj\Debug\netcoreapp3.1\randomClass.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\repos\enums\bin\Debug\netcoreapp3.1\enums.exe
+C:\Users\RAYA\source\repos\enums\bin\Debug\netcoreapp3.1\enums.deps.json
+C:\Users\RAYA\source\repos\enums\bin\Debug\netcoreapp3.1\enums.runtimeconfig.json
+C:\Users\RAYA\source\repos\enums\bin\Debug\netcoreapp3.1\enums.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\enums\bin\Debug\netcoreapp3.1\enums.dll
+C:\Users\RAYA\source\repos\enums\bin\Debug\netcoreapp3.1\enums.pdb
+C:\Users\RAYA\source\repos\enums\obj\Debug\netcoreapp3.1\enums.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\repos\enums\obj\Debug\netcoreapp3.1\enums.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\enums\obj\Debug\netcoreapp3.1\enums.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\enums\obj\Debug\netcoreapp3.1\enums.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\enums\obj\Debug\netcoreapp3.1\enums.dll
+C:\Users\RAYA\source\repos\enums\obj\Debug\netcoreapp3.1\enums.pdb
+C:\Users\RAYA\source\repos\enums\obj\Debug\netcoreapp3.1\enums.genruntimeconfig.cache

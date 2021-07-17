@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\repos\iselse\bin\Debug\netcoreapp3.1\iselse.exe
+C:\Users\RAYA\source\repos\iselse\bin\Debug\netcoreapp3.1\iselse.deps.json
+C:\Users\RAYA\source\repos\iselse\bin\Debug\netcoreapp3.1\iselse.runtimeconfig.json
+C:\Users\RAYA\source\repos\iselse\bin\Debug\netcoreapp3.1\iselse.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\iselse\bin\Debug\netcoreapp3.1\iselse.dll
+C:\Users\RAYA\source\repos\iselse\bin\Debug\netcoreapp3.1\iselse.pdb
+C:\Users\RAYA\source\repos\iselse\obj\Debug\netcoreapp3.1\iselse.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\repos\iselse\obj\Debug\netcoreapp3.1\iselse.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\iselse\obj\Debug\netcoreapp3.1\iselse.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\iselse\obj\Debug\netcoreapp3.1\iselse.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\iselse\obj\Debug\netcoreapp3.1\iselse.dll
+C:\Users\RAYA\source\repos\iselse\obj\Debug\netcoreapp3.1\iselse.pdb
+C:\Users\RAYA\source\repos\iselse\obj\Debug\netcoreapp3.1\iselse.genruntimeconfig.cache

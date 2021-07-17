@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\repos\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.exe
+C:\Users\RAYA\source\repos\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.deps.json
+C:\Users\RAYA\source\repos\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.json
+C:\Users\RAYA\source\repos\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\RAYA\source\repos\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\RAYA\source\repos\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\repos\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\RAYA\source\repos\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\RAYA\source\repos\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.genruntimeconfig.cache
