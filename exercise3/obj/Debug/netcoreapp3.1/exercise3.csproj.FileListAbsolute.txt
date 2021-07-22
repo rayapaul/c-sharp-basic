@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\repos\exercise3\bin\Debug\netcoreapp3.1\exercise3.exe
+C:\Users\RAYA\source\repos\exercise3\bin\Debug\netcoreapp3.1\exercise3.deps.json
+C:\Users\RAYA\source\repos\exercise3\bin\Debug\netcoreapp3.1\exercise3.runtimeconfig.json
+C:\Users\RAYA\source\repos\exercise3\bin\Debug\netcoreapp3.1\exercise3.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\exercise3\bin\Debug\netcoreapp3.1\exercise3.dll
+C:\Users\RAYA\source\repos\exercise3\bin\Debug\netcoreapp3.1\exercise3.pdb
+C:\Users\RAYA\source\repos\exercise3\obj\Debug\netcoreapp3.1\exercise3.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\repos\exercise3\obj\Debug\netcoreapp3.1\exercise3.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\exercise3\obj\Debug\netcoreapp3.1\exercise3.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\exercise3\obj\Debug\netcoreapp3.1\exercise3.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\exercise3\obj\Debug\netcoreapp3.1\exercise3.dll
+C:\Users\RAYA\source\repos\exercise3\obj\Debug\netcoreapp3.1\exercise3.pdb
+C:\Users\RAYA\source\repos\exercise3\obj\Debug\netcoreapp3.1\exercise3.genruntimeconfig.cache

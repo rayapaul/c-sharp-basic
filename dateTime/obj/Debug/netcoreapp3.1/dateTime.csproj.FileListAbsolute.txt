@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\repos\dateTime\bin\Debug\netcoreapp3.1\dateTime.exe
+C:\Users\RAYA\source\repos\dateTime\bin\Debug\netcoreapp3.1\dateTime.deps.json
+C:\Users\RAYA\source\repos\dateTime\bin\Debug\netcoreapp3.1\dateTime.runtimeconfig.json
+C:\Users\RAYA\source\repos\dateTime\bin\Debug\netcoreapp3.1\dateTime.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\dateTime\bin\Debug\netcoreapp3.1\dateTime.dll
+C:\Users\RAYA\source\repos\dateTime\bin\Debug\netcoreapp3.1\dateTime.pdb
+C:\Users\RAYA\source\repos\dateTime\obj\Debug\netcoreapp3.1\dateTime.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\repos\dateTime\obj\Debug\netcoreapp3.1\dateTime.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\dateTime\obj\Debug\netcoreapp3.1\dateTime.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\dateTime\obj\Debug\netcoreapp3.1\dateTime.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\dateTime\obj\Debug\netcoreapp3.1\dateTime.dll
+C:\Users\RAYA\source\repos\dateTime\obj\Debug\netcoreapp3.1\dateTime.pdb
+C:\Users\RAYA\source\repos\dateTime\obj\Debug\netcoreapp3.1\dateTime.genruntimeconfig.cache

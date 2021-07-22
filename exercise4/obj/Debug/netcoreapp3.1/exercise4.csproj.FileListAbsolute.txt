@@ -1,0 +1,12 @@
+C:\Users\RAYA\source\repos\exercise4\bin\Debug\netcoreapp3.1\exercise4.exe
+C:\Users\RAYA\source\repos\exercise4\bin\Debug\netcoreapp3.1\exercise4.deps.json
+C:\Users\RAYA\source\repos\exercise4\bin\Debug\netcoreapp3.1\exercise4.runtimeconfig.json
+C:\Users\RAYA\source\repos\exercise4\bin\Debug\netcoreapp3.1\exercise4.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\exercise4\bin\Debug\netcoreapp3.1\exercise4.dll
+C:\Users\RAYA\source\repos\exercise4\bin\Debug\netcoreapp3.1\exercise4.pdb
+C:\Users\RAYA\source\repos\exercise4\obj\Debug\netcoreapp3.1\exercise4.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\exercise4\obj\Debug\netcoreapp3.1\exercise4.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\exercise4\obj\Debug\netcoreapp3.1\exercise4.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\exercise4\obj\Debug\netcoreapp3.1\exercise4.dll
+C:\Users\RAYA\source\repos\exercise4\obj\Debug\netcoreapp3.1\exercise4.pdb
+C:\Users\RAYA\source\repos\exercise4\obj\Debug\netcoreapp3.1\exercise4.genruntimeconfig.cache

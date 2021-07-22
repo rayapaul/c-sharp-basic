@@ -1,0 +1,12 @@
+C:\Users\RAYA\source\repos\sample\obj\Debug\netcoreapp3.1\sample.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\sample\obj\Debug\netcoreapp3.1\sample.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\sample\obj\Debug\netcoreapp3.1\sample.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\sample\bin\Debug\netcoreapp3.1\sample.exe
+C:\Users\RAYA\source\repos\sample\bin\Debug\netcoreapp3.1\sample.deps.json
+C:\Users\RAYA\source\repos\sample\bin\Debug\netcoreapp3.1\sample.runtimeconfig.json
+C:\Users\RAYA\source\repos\sample\bin\Debug\netcoreapp3.1\sample.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\sample\bin\Debug\netcoreapp3.1\sample.dll
+C:\Users\RAYA\source\repos\sample\bin\Debug\netcoreapp3.1\sample.pdb
+C:\Users\RAYA\source\repos\sample\obj\Debug\netcoreapp3.1\sample.dll
+C:\Users\RAYA\source\repos\sample\obj\Debug\netcoreapp3.1\sample.pdb
+C:\Users\RAYA\source\repos\sample\obj\Debug\netcoreapp3.1\sample.genruntimeconfig.cache

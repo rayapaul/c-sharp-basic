@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\repos\strings-demo\bin\Debug\netcoreapp3.1\strings-demo.exe
+C:\Users\RAYA\source\repos\strings-demo\bin\Debug\netcoreapp3.1\strings-demo.deps.json
+C:\Users\RAYA\source\repos\strings-demo\bin\Debug\netcoreapp3.1\strings-demo.runtimeconfig.json
+C:\Users\RAYA\source\repos\strings-demo\bin\Debug\netcoreapp3.1\strings-demo.runtimeconfig.dev.json
+C:\Users\RAYA\source\repos\strings-demo\bin\Debug\netcoreapp3.1\strings-demo.dll
+C:\Users\RAYA\source\repos\strings-demo\bin\Debug\netcoreapp3.1\strings-demo.pdb
+C:\Users\RAYA\source\repos\strings-demo\obj\Debug\netcoreapp3.1\strings-demo.csproj.AssemblyReference.cache
+C:\Users\RAYA\source\repos\strings-demo\obj\Debug\netcoreapp3.1\strings-demo.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\repos\strings-demo\obj\Debug\netcoreapp3.1\strings-demo.AssemblyInfo.cs
+C:\Users\RAYA\source\repos\strings-demo\obj\Debug\netcoreapp3.1\strings-demo.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\repos\strings-demo\obj\Debug\netcoreapp3.1\strings-demo.dll
+C:\Users\RAYA\source\repos\strings-demo\obj\Debug\netcoreapp3.1\strings-demo.pdb
+C:\Users\RAYA\source\repos\strings-demo\obj\Debug\netcoreapp3.1\strings-demo.genruntimeconfig.cache
